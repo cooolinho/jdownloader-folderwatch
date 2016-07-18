@@ -1,0 +1,17 @@
+   # Paket
+   packageName=Neues Archiv
+
+   # Download Einstellungen
+   # URL
+   text=https://dev-files.blender.org/file/data/tulqdbjvaqfiaub4uvqs/PHID-FILE-e3wy5kon7qfqwp37mfxt/test.rar
+   downloadPassword=passwort
+   
+   # jDownloader Einstellungen
+   enabled=true
+   autoStart=TRUE
+   forcedStart=TRUE
+   autoConfirm=TRUE
+
+   # Archiv Einstellungen
+   extractAfterDownload=TRUE
+   extractPasswords=["passwort"]

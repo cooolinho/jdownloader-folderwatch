@@ -1,0 +1,11 @@
+   # Paket
+   packageName=Neues DLC
+
+   # DLC Datei oeffnen
+   filename=neues-archiv.dlc
+   
+   # jDownloader Einstellungen
+   enabled=true
+   autoStart=TRUE
+   forcedStart=TRUE
+   autoConfirm=TRUE

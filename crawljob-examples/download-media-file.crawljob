@@ -1,0 +1,12 @@
+   # Paket
+   packageName=Neues Bild
+
+   # Download Einstellungen
+   # URL
+   text=http://www.wedesoft.de/test/test.png
+   
+   # jDownloader Einstellungen
+   enabled=true
+   autoStart=TRUE
+   forcedStart=TRUE
+   autoConfirm=TRUE
